@@ -129,6 +129,8 @@
   - [乱码问题](#乱码问题)
   - [Junit5常用注解](#junit5常用注解)
   - [SpringBoot](#springboot)
+  - [Redis](#redis)
+    - [布隆过滤器](#布隆过滤器)
 
 ## Java基础
 
@@ -1257,5 +1259,8 @@ Native lmage 是一项创新技术，可将Java 代码编译成独立的本机�
 
 ## SpringBoot
 
-- sdfds
-- sdfsdsdfsdf
+## Redis
+
+sc create Redis binPath= "D:\Redis\redis-server.exe" --service-run D:\Redis\redis.windows-service.conf start= auto
+
+### 布隆过滤器
